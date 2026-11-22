@@ -1,0 +1,6 @@
+base_model: /path/to/Qwen3-4B-Instruct-2507
+entity_table: models/geoanchor_qwen3_4b/entity_embeddings.pt
+name_map: data/source/osm_rdf/name_index.json
+train_file: data/train/spatial_train_augmented.jsonl
+dev_file: data/train/spatial_dev.jsonl
+benchmark: data/benchmark/osm_scb/named.jsonl

@@ -1,0 +1,500 @@
+{"category": "S4", "input_text": "距离江汜老字号饭店更近的是饺子烩面还是Boundary Guang'an - Nanchong?", "answer": "饺子烩面", "entities": ["osmnode:8120922461", "osmnode:11932834794", "osmway:769110616"]}
+{"category": "S8", "input_text": "时光梅里和Điền Xá - Hà Lâu周边哪个POI更多?", "answer": "时光梅里", "entities": ["osmnode:3155538346", "osmway:1372616556"]}
+{"category": "S8", "input_text": "中影星美国际影城和Nanchang - Fuzhou Line周边哪个POI更多?", "answer": "中影星美国际影城", "entities": ["osmway:1429123308", "osmway:1347356721"]}
+{"category": "S9", "input_text": "Hezuo Subdistrict距离海岸线远还是近?", "answer": "远", "entities": ["osmrel:8341913"]}
+{"category": "S3", "input_text": "Daguan County和Zhongzhan District哪个面积更大?", "answer": "Daguan County", "entities": ["osmrel:2402020", "osmrel:3237723"]}
+{"category": "S1", "input_text": "Border Qitaihe - Jixi的行政级别是?", "answer": "副省级", "entities": ["osmway:205336860"]}
+{"category": "S9", "input_text": "Yilelite距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:7126222508"]}
+{"category": "S4", "input_text": "距离Beis Fu Cun更近的是Qizil还是乌杨街道?", "answer": "乌杨街道", "entities": ["osmnode:8430846786", "osmnode:4570578211", "osmrel:12118339"]}
+{"category": "S3", "input_text": "Wucheng Town和四合乡哪个面积更大?", "answer": "四合乡", "entities": ["osmrel:19872778", "osmrel:10707329"]}
+{"category": "S3", "input_text": "Pujiang County和Jinghai District哪个面积更大?", "answer": "Jinghai District", "entities": ["osmrel:4483295", "osmrel:3286895"]}
+{"category": "S2", "input_text": "Pang Kaw Daing Nei Yone属于哪种类型?", "answer": "POI", "entities": ["osmnode:12736970129"]}
+{"category": "S4", "input_text": "距离Xiaji monastery更近的是Acheso还是Vehicle administration office?", "answer": "Acheso", "entities": ["osmnode:10726925898", "osmnode:5638388693", "osmnode:6168045085"]}
+{"category": "S3", "input_text": "Wanjia和南法信镇哪个面积更大?", "answer": "南法信镇", "entities": ["osmrel:9660427", "osmrel:20233712"]}
+{"category": "S4", "input_text": "距离Mixue Ice Cream & Tea更近的是Nanqi Subdistrict还是Lianhuo Expressway?", "answer": "Nanqi Subdistrict", "entities": ["osmnode:13412779440", "osmrel:7423525", "osmway:1001610427"]}
+{"category": "S1", "input_text": "世茂香槟湖社区的行政级别是?", "answer": "村/社区", "entities": ["osmrel:17688881"]}
+{"category": "S4", "input_text": "距离Yifeng County更近的是Harbin-Manchuria Railway还是分箱谱村?", "answer": "分箱谱村", "entities": ["osmnode:244082305", "osmway:1284872923", "osmnode:11716773509"]}
+{"category": "S9", "input_text": "Toli Town距离海岸线远还是近?", "answer": "远", "entities": ["osmrel:9438974"]}
+{"category": "S6", "input_text": "Fushi Reservoir属于哪个上级行政单位?", "answer": "Danzhou", "entities": ["osmrel:2000120", "osmrel:11480928"]}
+{"category": "S4", "input_text": "距离博达加油站更近的是China Construction Bank还是Qixing?", "answer": "Qixing", "entities": ["osmnode:8065024057", "osmnode:11043950230", "osmnode:6381559090"]}
+{"category": "S5", "input_text": "Nanjiang Line在Limi Resort, Tokche, Tumling的哪个方向?", "answer": "北", "entities": ["osmnode:12278285522", "osmway:330864166"]}
+{"category": "S3", "input_text": "贾庄镇和Huaihaizhonglu Subdistrict哪个面积更大?", "answer": "贾庄镇", "entities": ["osmrel:12340792", "osmrel:12236003"]}
+{"category": "S2", "input_text": "玫城公园属于哪种类型?", "answer": "POI", "entities": ["osmway:655285525"]}
+{"category": "S1", "input_text": "塔尔岭嘎查的行政级别是?", "answer": "乡镇/街道", "entities": ["osmnode:7027028241"]}
+{"category": "S2", "input_text": "Jingjiu Line属于哪种类型?", "answer": "交通设施", "entities": ["osmway:1387774578"]}
+{"category": "S1", "input_text": "青羊锦江边界的行政级别是?", "answer": "地级市", "entities": ["osmway:335064820"]}
+{"category": "S2", "input_text": "Yangqianhe Township属于哪种类型?", "answer": "行政区", "entities": ["osmrel:20047888"]}
+{"category": "S4", "input_text": "距离鄂托克前旗第五小学更近的是Nanhezhuangcun还是甲马驿栈?", "answer": "Nanhezhuangcun", "entities": ["osmway:1417661530", "osmnode:7461159906", "osmnode:4986025998"]}
+{"category": "S1", "input_text": "Boundary Gansu - Shaanxi的行政级别是?", "answer": "省/直辖市", "entities": ["osmway:871394969"]}
+{"category": "S2", "input_text": "Longshancun属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:9189060613"]}
+{"category": "S3", "input_text": "象山村和淘沙塘社区哪个面积更大?", "answer": "象山村", "entities": ["osmrel:6437809", "osmrel:5986217"]}
+{"category": "S5", "input_text": "Kangtakeqie在北林区第三幼儿园的哪个方向?", "answer": "西", "entities": ["osmway:1463264636", "osmnode:11071679476"]}
+{"category": "S3", "input_text": "Guangrao County和Yuen Long District哪个面积更大?", "answer": "Guangrao County", "entities": ["osmrel:5678408", "osmrel:8480823"]}
+{"category": "S9", "input_text": "碧云酒店距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:694059057"]}
+{"category": "S8", "input_text": "蒙古汗城和Teld周边哪个POI更多?", "answer": "Teld", "entities": ["osmway:899389125", "osmnode:13503025840"]}
+{"category": "S3", "input_text": "Xã Điềm He和Jiangning District哪个面积更大?", "answer": "Jiangning District", "entities": ["osmrel:19394648", "osmrel:2147642"]}
+{"category": "S6", "input_text": "Leiyin Temple属于哪个上级行政单位?", "answer": "Shazhou", "entities": ["osmnode:5182760621", "osmrel:8781089"]}
+{"category": "S1", "input_text": "宗汉古塘线的行政级别是?", "answer": "县/区", "entities": ["osmway:1028601423"]}
+{"category": "S5", "input_text": "Deqingyingcun在保平社区的哪个方向?", "answer": "北", "entities": ["osmnode:13591934697", "osmnode:9270906229"]}
+{"category": "S8", "input_text": "Orda'eriq和Harbin-Manchuria Railway周边哪个POI更多?", "answer": "Orda'eriq", "entities": ["osmnode:12059504799", "osmway:1284792986"]}
+{"category": "S2", "input_text": "Sinopec属于哪种类型?", "answer": "POI", "entities": ["osmnode:4166636108"]}
+{"category": "S3", "input_text": "Shuangyang District和Qing County哪个面积更大?", "answer": "Shuangyang District", "entities": ["osmrel:2763990", "osmrel:5679063"]}
+{"category": "S2", "input_text": "Zhizhudiancun属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:8979032531"]}
+{"category": "S8", "input_text": "Hangzhou–Ruili Expressway和Xulan High-Speed Line周边哪个POI更多?", "answer": "Xulan High-Speed Line", "entities": ["osmway:300626536", "osmway:1370062457"]}
+{"category": "S2", "input_text": "农副产品批发市场属于哪种类型?", "answer": "POI", "entities": ["osmway:933295349"]}
+{"category": "S8", "input_text": "Boundary Qiqihar - Daqing和Kaifeng Dongjiao Middle School周边哪个POI更多?", "answer": "Kaifeng Dongjiao Middle School", "entities": ["osmway:1467595767", "osmway:715641471"]}
+{"category": "S1", "input_text": "Baicitan的行政级别是?", "answer": "村/社区", "entities": ["osmrel:18877020"]}
+{"category": "S8", "input_text": "西藏阜康医院和远公塔院周边哪个POI更多?", "answer": "西藏阜康医院", "entities": ["osmway:1322843442", "osmnode:4586404900"]}
+{"category": "S8", "input_text": "畔江宾馆和Jingxin Expressway周边哪个POI更多?", "answer": "畔江宾馆", "entities": ["osmnode:11150339238", "osmway:261145013"]}
+{"category": "S2", "input_text": "Kedu属于哪种类型?", "answer": "行政区", "entities": ["osmrel:6612458"]}
+{"category": "S3", "input_text": "凤来镇和Muji Township哪个面积更大?", "answer": "Muji Township", "entities": ["osmrel:12296612", "osmrel:17874356"]}
+{"category": "S6", "input_text": "Jiaoji Line属于哪个上级行政单位?", "answer": "胶北街道", "entities": ["osmway:662916065", "osmrel:19402404"]}
+{"category": "S3", "input_text": "闸北村和Tianle哪个面积更大?", "answer": "闸北村", "entities": ["osmrel:16896263", "osmrel:11551237"]}
+{"category": "S5", "input_text": "小烧货大湖虾在延吉市教师进修学校的哪个方向?", "answer": "西", "entities": ["osmway:1120036804", "osmnode:9232632606"]}
+{"category": "S3", "input_text": "Huangtian和大兴街道哪个面积更大?", "answer": "Huangtian", "entities": ["osmrel:12076553", "osmrel:10788003"]}
+{"category": "S2", "input_text": "Fugangcun属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:8620066549"]}
+{"category": "S8", "input_text": "缘成寺和公共卫生间周边哪个POI更多?", "answer": "公共卫生间", "entities": ["osmway:761333836", "osmnode:4937827362"]}
+{"category": "S9", "input_text": "Boundary Qujing - Kunming距离海岸线远还是近?", "answer": "远", "entities": ["osmway:746539855"]}
+{"category": "S1", "input_text": "Boundary Lạng Sơn - Cao Bằng的行政级别是?", "answer": "省/直辖市", "entities": ["osmway:1417462116"]}
+{"category": "S2", "input_text": "蚝记美食属于哪种类型?", "answer": "POI", "entities": ["osmnode:13565868628"]}
+{"category": "S2", "input_text": "Xiaotou属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:4380695724"]}
+{"category": "S3", "input_text": "Jingshan和Phường Bình Minh哪个面积更大?", "answer": "Jingshan", "entities": ["osmrel:16113477", "osmrel:18893524"]}
+{"category": "S2", "input_text": "Boundary Hubei - Hunan属于哪种类型?", "answer": "行政区", "entities": ["osmway:238197652"]}
+{"category": "S9", "input_text": "Boundary Guizhou - Chongqing距离海岸线远还是近?", "answer": "远", "entities": ["osmway:200400373"]}
+{"category": "S8", "input_text": "卧里屯街道办事处和富滇银行周边哪个POI更多?", "answer": "富滇银行", "entities": ["osmrel:10704196", "osmnode:5732501007"]}
+{"category": "S4", "input_text": "距离天空之山驿站P1停车场更近的是Nanjiang Line还是Gem International Preschool?", "answer": "Gem International Preschool", "entities": ["osmnode:12315958232", "osmway:982033003", "osmnode:5435445947"]}
+{"category": "S1", "input_text": "Boundary Guizhou - Hunan的行政级别是?", "answer": "省/直辖市", "entities": ["osmway:229297492"]}
+{"category": "S1", "input_text": "小纪武坚界的行政级别是?", "answer": "县/区", "entities": ["osmway:1302209280"]}
+{"category": "S4", "input_text": "距离Domar township更近的是Rank- Kol View point还是足球场?", "answer": "Rank- Kol View point", "entities": ["osmrel:12321524", "osmnode:5636344222", "osmway:621457238"]}
+{"category": "S2", "input_text": "同安药店属于哪种类型?", "answer": "POI", "entities": ["osmnode:8830924521"]}
+{"category": "S2", "input_text": "奓山-桐湖属于哪种类型?", "answer": "行政区", "entities": ["osmway:1418267531"]}
+{"category": "S1", "input_text": "军粮城街道的行政级别是?", "answer": "县/区", "entities": ["osmrel:18796285"]}
+{"category": "S1", "input_text": "红花岭社区的行政级别是?", "answer": "村/社区", "entities": ["osmnode:11153634123"]}
+{"category": "S4", "input_text": "距离小筋烧烤更近的是Shangsizuicun还是榆树市城市展览馆?", "answer": "榆树市城市展览馆", "entities": ["osmnode:12844165905", "osmnode:9276583065", "osmway:919630350"]}
+{"category": "S1", "input_text": "Huada Subdistrict的行政级别是?", "answer": "县/区", "entities": ["osmrel:12099705"]}
+{"category": "S4", "input_text": "距离Nepal - India更近的是Sichuan–Tibet Railway还是仙岗社区-丹灶社区 界?", "answer": "Sichuan–Tibet Railway", "entities": ["osmway:729227949", "osmway:1271742426", "osmway:1460192486"]}
+{"category": "S3", "input_text": "上升乡和钟埭街道哪个面积更大?", "answer": "上升乡", "entities": ["osmrel:10704003", "osmrel:19101239"]}
+{"category": "S1", "input_text": "东湖社区的行政级别是?", "answer": "村/社区", "entities": ["osmrel:13220240"]}
+{"category": "S2", "input_text": "海安市明道幼儿园属于哪种类型?", "answer": "POI", "entities": ["osmway:444987986"]}
+{"category": "S9", "input_text": "Harbin-Manchuria Railway距离海岸线远还是近?", "answer": "远", "entities": ["osmway:1067050436"]}
+{"category": "S4", "input_text": "距离Daxin County更近的是Fugu还是Sai Chuen Road Public Toilet?", "answer": "Sai Chuen Road Public Toilet", "entities": ["osmrel:2773865", "osmnode:1787618203", "osmnode:2273791406"]}
+{"category": "S9", "input_text": "Mendong Gompa距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:13685932459"]}
+{"category": "S2", "input_text": "台山市海侨派出所属于哪种类型?", "answer": "POI", "entities": ["osmnode:2917403455"]}
+{"category": "S8", "input_text": "Lan Xian和Shree Manaslu Indreni Pra V周边哪个POI更多?", "answer": "Shree Manaslu Indreni Pra V", "entities": ["osmnode:3242449697", "osmnode:4903670593"]}
+{"category": "S8", "input_text": "医院食堂和Daqin Line周边哪个POI更多?", "answer": "医院食堂", "entities": ["osmway:1275194439", "osmway:394247797"]}
+{"category": "S1", "input_text": "华城社区的行政级别是?", "answer": "村/社区", "entities": ["osmrel:11950774"]}
+{"category": "S8", "input_text": "Dorje和富阳西湖线周边哪个POI更多?", "answer": "富阳西湖线", "entities": ["osmnode:2989554235", "osmway:979783902"]}
+{"category": "S4", "input_text": "距离平江汽车站更近的是Public Toilet还是Lodoi?", "answer": "Public Toilet", "entities": ["osmnode:11243028775", "osmway:1274003060", "osmnode:10263200057"]}
+{"category": "S9", "input_text": "北京陈经纶中学团结湖分校（初中部）距离海岸线远还是近?", "answer": "远", "entities": ["osmway:981124993"]}
+{"category": "S2", "input_text": "毓龙街道属于哪种类型?", "answer": "行政区", "entities": ["osmrel:17672319"]}
+{"category": "S1", "input_text": "Boundary Baotou - Ordos的行政级别是?", "answer": "副省级", "entities": ["osmway:753865162"]}
+{"category": "S5", "input_text": "辛丰镇在Nangbazegang Rock Sculptures的哪个方向?", "answer": "东", "entities": ["osmnode:13357522677", "osmrel:19110646"]}
+{"category": "S6", "input_text": "Jiaoji Line属于哪个上级行政单位?", "answer": "梨园街道", "entities": ["osmway:663521439", "osmrel:12332078"]}
+{"category": "S2", "input_text": "Changxuganma属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:2355771240"]}
+{"category": "S9", "input_text": "Boundary Gansu - Sichuan距离海岸线远还是近?", "answer": "远", "entities": ["osmway:200452465"]}
+{"category": "S3", "input_text": "苗馆镇和Fengxi Subdistrict哪个面积更大?", "answer": "苗馆镇", "entities": ["osmrel:13307084", "osmrel:7400300"]}
+{"category": "S8", "input_text": "Haoji Railway和Hambuk Line周边哪个POI更多?", "answer": "Haoji Railway", "entities": ["osmway:1326112800", "osmway:199576551"]}
+{"category": "S2", "input_text": "No (5) Ward属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:13347283945"]}
+{"category": "S5", "input_text": "Lhotse Shar在Lianhuo Expressway的哪个方向?", "answer": "南", "entities": ["osmway:166136907", "osmnode:2677892529"]}
+{"category": "S3", "input_text": "Nianyushan和Lianhua哪个面积更大?", "answer": "Nianyushan", "entities": ["osmrel:5834551", "osmrel:4783904"]}
+{"category": "S6", "input_text": "Chi Lăng - Hoàng Đồng属于哪个上级行政单位?", "answer": "Boundary Bắc Ninh - Lạng Sơn", "entities": ["osmway:718033512", "osmway:1381962261"]}
+{"category": "S1", "input_text": "Boundary Laibin - Guigang的行政级别是?", "answer": "副省级", "entities": ["osmway:846866798"]}
+{"category": "S2", "input_text": "Beijing–Shanghai Expressway属于哪种类型?", "answer": "交通设施", "entities": ["osmway:399903810"]}
+{"category": "S5", "input_text": "Jiazhaike Village在Agricultural Bank of China的哪个方向?", "answer": "北", "entities": ["osmnode:13439034401", "osmrel:20381010"]}
+{"category": "S3", "input_text": "Qianfeng District和Phong Hải Commune哪个面积更大?", "answer": "Qianfeng District", "entities": ["osmrel:8023117", "osmrel:19571532"]}
+{"category": "S2", "input_text": "Border Xinjiang - Gansu属于哪种类型?", "answer": "行政区", "entities": ["osmway:37113408"]}
+{"category": "S1", "input_text": "午井镇的行政级别是?", "answer": "县/区", "entities": ["osmrel:15414476"]}
+{"category": "S3", "input_text": "徐圩乡和Xiadu Subdistrict哪个面积更大?", "answer": "徐圩乡", "entities": ["osmrel:13617590", "osmrel:10080333"]}
+{"category": "S5", "input_text": "莲花山小学在五里铺社区的哪个方向?", "answer": "东", "entities": ["osmnode:9887211695", "osmway:1427248021"]}
+{"category": "S9", "input_text": "Kota Jilga距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:9025607249"]}
+{"category": "S5", "input_text": "Baiyinchaoketu在Qiguanyingzicun的哪个方向?", "answer": "西", "entities": ["osmnode:9467591016", "osmnode:6282540811"]}
+{"category": "S2", "input_text": "大龙井属于哪种类型?", "answer": "POI", "entities": ["osmnode:11864744822"]}
+{"category": "S3", "input_text": "Muli Tibetan Autonomous County和Đồng Văn Commune哪个面积更大?", "answer": "Muli Tibetan Autonomous County", "entities": ["osmrel:2786744", "osmrel:19326739"]}
+{"category": "S3", "input_text": "盘城街道和天湖街道哪个面积更大?", "answer": "盘城街道", "entities": ["osmrel:14775661", "osmrel:12359549"]}
+{"category": "S9", "input_text": "美人胡同距离海岸线远还是近?", "answer": "远", "entities": ["osmway:1010697420"]}
+{"category": "S5", "input_text": "Daba在Boundary Qinzhou - Nanning的哪个方向?", "answer": "西", "entities": ["osmway:528808675", "osmnode:12840207158"]}
+{"category": "S1", "input_text": "Boundary Heilongjiang - Jilin的行政级别是?", "answer": "省/直辖市", "entities": ["osmway:772101823"]}
+{"category": "S3", "input_text": "Fanshan和羊群沟乡哪个面积更大?", "answer": "羊群沟乡", "entities": ["osmrel:7534591", "osmrel:10437548"]}
+{"category": "S4", "input_text": "距离Gakpa更近的是定日县-昂仁县边界还是Xiangyaocun?", "answer": "Xiangyaocun", "entities": ["osmnode:4278149181", "osmway:906268812", "osmnode:8921094096"]}
+{"category": "S1", "input_text": "Boundary Chaoyang - Huludao的行政级别是?", "answer": "副省级", "entities": ["osmway:691737923"]}
+{"category": "S5", "input_text": "Tổ dân phố 25在桃源路街道的哪个方向?", "answer": "西", "entities": ["osmrel:11937808", "osmnode:12762302810"]}
+{"category": "S2", "input_text": "Wuchang Expressway属于哪种类型?", "answer": "交通设施", "entities": ["osmway:384547698"]}
+{"category": "S8", "input_text": "Роснефть和川浙会周边哪个POI更多?", "answer": "川浙会", "entities": ["osmnode:909819854", "osmnode:4226743583"]}
+{"category": "S3", "input_text": "大店子村和Longshoulu哪个面积更大?", "answer": "大店子村", "entities": ["osmrel:19988521", "osmrel:17580279"]}
+{"category": "S4", "input_text": "距离Dafo Temple更近的是网球场还是Xiao Shetai Qin Great Wall?", "answer": "Xiao Shetai Qin Great Wall", "entities": ["osmnode:5375948119", "osmway:1490756809", "osmnode:13659000774"]}
+{"category": "S2", "input_text": "Mao'erge属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:4345333754"]}
+{"category": "S4", "input_text": "距离Dodoi更近的是Luoji还是芙蓉街道与仙女山镇边界?", "answer": "Luoji", "entities": ["osmnode:12983417263", "osmrel:10093013", "osmway:905585447"]}
+{"category": "S3", "input_text": "水口村和Damiao Village哪个面积更大?", "answer": "水口村", "entities": ["osmrel:17545958", "osmrel:20369154"]}
+{"category": "S3", "input_text": "Dongchangfu District和Xingqing District哪个面积更大?", "answer": "Dongchangfu District", "entities": ["osmrel:5675850", "osmrel:3307202"]}
+{"category": "S1", "input_text": "Jimsar County的行政级别是?", "answer": "地级市", "entities": ["osmrel:2752408"]}
+{"category": "S3", "input_text": "Xilingjing Township和东牯山林场哪个面积更大?", "answer": "Xilingjing Township", "entities": ["osmrel:19986423", "osmrel:5657895"]}
+{"category": "S3", "input_text": "六十六团二连和下丁甲岭村哪个面积更大?", "answer": "六十六团二连", "entities": ["osmrel:20132794", "osmrel:20364351"]}
+{"category": "S9", "input_text": "Hefei-Fuzhou HSR距离海岸线远还是近?", "answer": "远", "entities": ["osmway:843310237"]}
+{"category": "S2", "input_text": "Funan County属于哪种类型?", "answer": "行政区", "entities": ["osmrel:3245996"]}
+{"category": "S5", "input_text": "真蒙国际地景艺术园在Xulan High-Speed Line的哪个方向?", "answer": "北", "entities": ["osmway:263521409", "osmnode:9346453161"]}
+{"category": "S2", "input_text": "Jiaozuo–Liuzhou Line属于哪种类型?", "answer": "交通设施", "entities": ["osmway:911557785"]}
+{"category": "S2", "input_text": "周王庙镇属于哪种类型?", "answer": "行政区", "entities": ["osmrel:19101249"]}
+{"category": "S1", "input_text": "Boundary Heilongjiang - Jilin的行政级别是?", "answer": "省/直辖市", "entities": ["osmway:772101802"]}
+{"category": "S5", "input_text": "Boundary Hunan - Chongqing在Shanghai-Chengdu Line的哪个方向?", "answer": "南", "entities": ["osmway:511602552", "osmway:143048325"]}
+{"category": "S6", "input_text": "Yanchang Expressway属于哪个上级行政单位?", "answer": "永庆乡 영경향", "entities": ["osmway:1354169992", "osmrel:17044750"]}
+{"category": "S9", "input_text": "鄂尔多斯亿和宾馆距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:12899062973"]}
+{"category": "S2", "input_text": "神山寺属于哪种类型?", "answer": "POI", "entities": ["osmnode:2600841631"]}
+{"category": "S1", "input_text": "Fengtai的行政级别是?", "answer": "县/区", "entities": ["osmrel:5696769"]}
+{"category": "S5", "input_text": "Ganzhou–Longyan Railway在Dicos的哪个方向?", "answer": "东", "entities": ["osmnode:5061138021", "osmway:551003744"]}
+{"category": "S3", "input_text": "原墙镇和Tubaigang哪个面积更大?", "answer": "原墙镇", "entities": ["osmrel:14726510", "osmrel:10066820"]}
+{"category": "S8", "input_text": "Samjiyon Line和Юнилаб周边哪个POI更多?", "answer": "Юнилаб", "entities": ["osmway:737154963", "osmnode:9447062939"]}
+{"category": "S2", "input_text": "Goujie属于哪种类型?", "answer": "行政区", "entities": ["osmrel:10343340"]}
+{"category": "S3", "input_text": "Liedong Subdistrict和新登镇哪个面积更大?", "answer": "新登镇", "entities": ["osmrel:12023681", "osmrel:20151537"]}
+{"category": "S2", "input_text": "Xianghuang Banner属于哪种类型?", "answer": "行政区", "entities": ["osmrel:2753018"]}
+{"category": "S8", "input_text": "Renheping和Sangcha Malla周边哪个POI更多?", "answer": "Sangcha Malla", "entities": ["osmnode:2492511760", "osmnode:9143602785"]}
+{"category": "S8", "input_text": "川渝老鸭汤和Longneng Hotel周边哪个POI更多?", "answer": "Longneng Hotel", "entities": ["osmnode:2965421675", "osmnode:4908617325"]}
+{"category": "S4", "input_text": "距离锡盟宝运客运站更近的是Qangkyim还是Shanghai-Chengdu Line?", "answer": "Shanghai-Chengdu Line", "entities": ["osmway:980101278", "osmnode:8039998954", "osmway:512383327"]}
+{"category": "S1", "input_text": "Dongxing Street的行政级别是?", "answer": "县/区", "entities": ["osmrel:14029317"]}
+{"category": "S4", "input_text": "距离Tangyin更近的是庐山市人民政府还是Hangzhou-Shenzhen Line?", "answer": "庐山市人民政府", "entities": ["osmnode:2539812897", "osmnode:3778152565", "osmway:720315635"]}
+{"category": "S3", "input_text": "河林村和Longsheng哪个面积更大?", "answer": "Longsheng", "entities": ["osmrel:6437661", "osmrel:17556629"]}
+{"category": "S4", "input_text": "距离金东义乌线更近的是Shuangshipu还是Hong Kong-Zhuhai-Macao Bridge?", "answer": "Hong Kong-Zhuhai-Macao Bridge", "entities": ["osmway:1028926402", "osmnode:13206372957", "osmway:293134831"]}
+{"category": "S8", "input_text": "Mawan和Xinjingcun周边哪个POI更多?", "answer": "Mawan", "entities": ["osmnode:5903605398", "osmnode:8421927668"]}
+{"category": "S1", "input_text": "Baitu的行政级别是?", "answer": "县/区", "entities": ["osmrel:8178659"]}
+{"category": "S8", "input_text": "Boundary Kunming - Yuxi和白音席勒街道周边哪个POI更多?", "answer": "白音席勒街道", "entities": ["osmway:1164842971", "osmrel:10389276"]}
+{"category": "S8", "input_text": "Kunsal Thondoling Gumba和Watang–Rizhao Railway周边哪个POI更多?", "answer": "Kunsal Thondoling Gumba", "entities": ["osmnode:5045873281", "osmway:309906168"]}
+{"category": "S2", "input_text": "锦城锦羊边界属于哪种类型?", "answer": "行政区", "entities": ["osmway:859735610"]}
+{"category": "S1", "input_text": "Border Myanmar - China的行政级别是?", "answer": "国家", "entities": ["osmway:140868178"]}
+{"category": "S2", "input_text": "中共宜宾市委员会属于哪种类型?", "answer": "POI", "entities": ["osmnode:13607196914"]}
+{"category": "S9", "input_text": "乌达经济开发区距离海岸线远还是近?", "answer": "远", "entities": ["osmrel:10383585"]}
+{"category": "S3", "input_text": "Yuanjiang和Honggang District哪个面积更大?", "answer": "Yuanjiang", "entities": ["osmrel:3202591", "osmrel:2755190"]}
+{"category": "S2", "input_text": "Border Garze - Ya'an属于哪种类型?", "answer": "行政区", "entities": ["osmway:157818971"]}
+{"category": "S4", "input_text": "距离Nanjiang Line更近的是香茂乡中心小学还是Xã Quảng Thành?", "answer": "香茂乡中心小学", "entities": ["osmway:330864481", "osmnode:12077701078", "osmrel:18904965"]}
+{"category": "S5", "input_text": "Luofang在Boundary Jiangsu - Zhejiang的哪个方向?", "answer": "南", "entities": ["osmway:971263472", "osmnode:4257323833"]}
+{"category": "S4", "input_text": "距离Paengmu Line更近的是Salaqi Ecology Park还是Boundary Kashgar - Kizilsu?", "answer": "Salaqi Ecology Park", "entities": ["osmway:201011689", "osmway:531875147", "osmway:1306495897"]}
+{"category": "S8", "input_text": "西书院社区和Tianmen Pass周边哪个POI更多?", "answer": "西书院社区", "entities": ["osmrel:5986206", "osmnode:9887908941"]}
+{"category": "S2", "input_text": "Zhigou属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:12312204434"]}
+{"category": "S3", "input_text": "Taidong和Jiulong哪个面积更大?", "answer": "Taidong", "entities": ["osmrel:17556632", "osmrel:19673123"]}
+{"category": "S8", "input_text": "Luobu和双龙村委会周边哪个POI更多?", "answer": "双龙村委会", "entities": ["osmrel:11292151", "osmnode:5546847842"]}
+{"category": "S3", "input_text": "八里庙村社区和滕村村哪个面积更大?", "answer": "八里庙村社区", "entities": ["osmrel:19529998", "osmrel:16914584"]}
+{"category": "S3", "input_text": "竹荫里社区和国贸阳光社区哪个面积更大?", "answer": "竹荫里社区", "entities": ["osmrel:17017577", "osmrel:12111095"]}
+{"category": "S1", "input_text": "Boundary Ulanqab - Xilingol的行政级别是?", "answer": "副省级", "entities": ["osmway:911427205"]}
+{"category": "S1", "input_text": "汀苑社区的行政级别是?", "answer": "村/社区", "entities": ["osmrel:12262439"]}
+{"category": "S4", "input_text": "距离Dapo更近的是广信区第二小学还是新发乡?", "answer": "广信区第二小学", "entities": ["osmnode:4858077660", "osmway:951603316", "osmrel:10701165"]}
+{"category": "S8", "input_text": "Haile和Nanchang - Fuzhou Line周边哪个POI更多?", "answer": "Haile", "entities": ["osmrel:16184530", "osmway:668140147"]}
+{"category": "S1", "input_text": "扎囊县-乃东区边界的行政级别是?", "answer": "地级市", "entities": ["osmway:905902424"]}
+{"category": "S3", "input_text": "竹行街道和彭措林乡哪个面积更大?", "answer": "彭措林乡", "entities": ["osmrel:7207135", "osmrel:12311869"]}
+{"category": "S5", "input_text": "周家店镇在Guangxiangtai的哪个方向?", "answer": "南", "entities": ["osmnode:13160933616", "osmrel:17780783"]}
+{"category": "S1", "input_text": "Boundary Lao Cai - Lai Chau的行政级别是?", "answer": "省/直辖市", "entities": ["osmway:1367335823"]}
+{"category": "S6", "input_text": "Jingyihuo Railway属于哪个上级行政单位?", "answer": "Qingshuihe Town", "entities": ["osmway:1254111400", "osmrel:9386406"]}
+{"category": "S8", "input_text": "Jingjiu Line和Hotel Mandala周边哪个POI更多?", "answer": "Hotel Mandala", "entities": ["osmway:721540109", "osmnode:12023694799"]}
+{"category": "S4", "input_text": "距离凉皮店更近的是Boundary Anhui - Hubei还是Siyek?", "answer": "Siyek", "entities": ["osmnode:8865378094", "osmway:1501618727", "osmnode:4549050985"]}
+{"category": "S4", "input_text": "距离Guoduwan更近的是Zizhen Park还是Xiangfan–Chongqing railway?", "answer": "Zizhen Park", "entities": ["osmnode:2464236729", "osmway:603916151", "osmway:280238445"]}
+{"category": "S3", "input_text": "Jingkou District和Xiaochang County哪个面积更大?", "answer": "Xiaochang County", "entities": ["osmrel:5670794", "osmrel:3216402"]}
+{"category": "S5", "input_text": "古雁公园在Baimameiduo Coffee的哪个方向?", "answer": "东", "entities": ["osmnode:3881956510", "osmway:471117832"]}
+{"category": "S8", "input_text": "上兴南渡界和Yobang-gol周边哪个POI更多?", "answer": "Yobang-gol", "entities": ["osmway:779654882", "osmnode:3448557205"]}
+{"category": "S4", "input_text": "距离Adug更近的是西柳塘村还是Wenhua?", "answer": "西柳塘村", "entities": ["osmnode:9824261771", "osmrel:19126658", "osmnode:6414790098"]}
+{"category": "S3", "input_text": "Heishan和Chengbei Subdistrict哪个面积更大?", "answer": "Heishan", "entities": ["osmrel:20591942", "osmrel:9099980"]}
+{"category": "S4", "input_text": "距离Michongcun更近的是班禅沟还是Xinhua?", "answer": "Xinhua", "entities": ["osmnode:8093022741", "osmnode:13362098233", "osmnode:1436429493"]}
+{"category": "S3", "input_text": "Ludian County和Longzihu District哪个面积更大?", "answer": "Ludian County", "entities": ["osmrel:2402646", "osmrel:3262331"]}
+{"category": "S1", "input_text": "Border Karamay - Tacheng的行政级别是?", "answer": "副省级", "entities": ["osmway:677667583"]}
+{"category": "S2", "input_text": "Hangzhou-Shenzhen Line属于哪种类型?", "answer": "交通设施", "entities": ["osmway:191990118"]}
+{"category": "S6", "input_text": "结巴乡与索珠乡边界属于哪个上级行政单位?", "answer": "桑日县-乃东区边界", "entities": ["osmway:905902426", "osmway:905902427"]}
+{"category": "S2", "input_text": "Yingtan–Xiamen Line属于哪种类型?", "answer": "交通设施", "entities": ["osmway:1189741424"]}
+{"category": "S1", "input_text": "Yuting Subdistrict的行政级别是?", "answer": "县/区", "entities": ["osmrel:9398184"]}
+{"category": "S5", "input_text": "鄞州奉化线在Machen的哪个方向?", "answer": "东", "entities": ["osmnode:3017464212", "osmway:1011161161"]}
+{"category": "S5", "input_text": "Watang–Rizhao Railway在杨庄子村的哪个方向?", "answer": "西", "entities": ["osmrel:20167051", "osmway:309396981"]}
+{"category": "S3", "input_text": "Songling和Tianlin County哪个面积更大?", "answer": "Songling", "entities": ["osmrel:10672503", "osmrel:2773982"]}
+{"category": "S3", "input_text": "Baney Bimkhar和Mokshö哪个面积更大?", "answer": "Mokshö", "entities": ["osmrel:13423536", "osmrel:11808261"]}
+{"category": "S2", "input_text": "Kunming–Hekou railway属于哪种类型?", "answer": "交通设施", "entities": ["osmway:1474337077"]}
+{"category": "S5", "input_text": "Dungu在Zhengxiang District的哪个方向?", "answer": "南", "entities": ["osmrel:3156545", "osmnode:4237674824"]}
+{"category": "S2", "input_text": "Sichuan–Tibet Railway属于哪种类型?", "answer": "交通设施", "entities": ["osmway:1389533961"]}
+{"category": "S2", "input_text": "Xiao Hôôlait Cun属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:8421928049"]}
+{"category": "S1", "input_text": "东升-沙坡头的行政级别是?", "answer": "省/直辖市", "entities": ["osmway:1493046585"]}
+{"category": "S4", "input_text": "距离La’gyab更近的是Nanchang - Fuzhou Line还是虹山派出所?", "answer": "虹山派出所", "entities": ["osmnode:13072573417", "osmway:699510294", "osmnode:2546437299"]}
+{"category": "S3", "input_text": "陈方社区和青山南路社区哪个面积更大?", "answer": "陈方社区", "entities": ["osmrel:19547545", "osmrel:6688069"]}
+{"category": "S2", "input_text": "Jinan-Guangzhou Expressway属于哪种类型?", "answer": "交通设施", "entities": ["osmway:1222179889"]}
+{"category": "S2", "input_text": "长沙汽车工业学校属于哪种类型?", "answer": "POI", "entities": ["osmway:660401989"]}
+{"category": "S2", "input_text": "Dolma Khangsar属于哪种类型?", "answer": "POI", "entities": ["osmnode:5301728721"]}
+{"category": "S2", "input_text": "Slavyanka属于哪种类型?", "answer": "自然地物", "entities": ["osmrel:10166128"]}
+{"category": "S2", "input_text": "大通公司属于哪种类型?", "answer": "POI", "entities": ["osmway:1378578190"]}
+{"category": "S2", "input_text": "Qinghe Town属于哪种类型?", "answer": "行政区", "entities": ["osmrel:9393260"]}
+{"category": "S3", "input_text": "Xincheng和尧塘街道哪个面积更大?", "answer": "Xincheng", "entities": ["osmrel:11855463", "osmrel:13754138"]}
+{"category": "S8", "input_text": "Gôrhan Gaqaa和北山杨府观周边哪个POI更多?", "answer": "北山杨府观", "entities": ["osmnode:8460295401", "osmway:1136977208"]}
+{"category": "S3", "input_text": "团部社区和东礼村哪个面积更大?", "answer": "东礼村", "entities": ["osmrel:19168110", "osmrel:17625861"]}
+{"category": "S4", "input_text": "距离Nam On Cetī更近的是南伞河畔公园还是Lijiazhangzicun?", "answer": "南伞河畔公园", "entities": ["osmnode:12100466052", "osmway:58673719", "osmnode:8354090650"]}
+{"category": "S4", "input_text": "距离Daitou Town更近的是Border Bortala - Ili还是济南育英中学（分校区）?", "answer": "济南育英中学（分校区）", "entities": ["osmrel:17988303", "osmway:204934500", "osmway:431921790"]}
+{"category": "S8", "input_text": "Huanghe Community和Gubeikou周边哪个POI更多?", "answer": "Huanghe Community", "entities": ["osmnode:8879368185", "osmrel:6579611"]}
+{"category": "S5", "input_text": "Nanchang - Fuzhou Line在希尼呼都格嘎查的哪个方向?", "answer": "南", "entities": ["osmnode:7027898453", "osmway:809689866"]}
+{"category": "S3", "input_text": "六十四团十一连和袁中社区哪个面积更大?", "answer": "六十四团十一连", "entities": ["osmrel:20156737", "osmrel:17017643"]}
+{"category": "S9", "input_text": "Yunongqiao距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:13565737258"]}
+{"category": "S1", "input_text": "Yalu River的行政级别是?", "answer": "国家", "entities": ["osmway:45567834"]}
+{"category": "S2", "input_text": "Guibei Expressway属于哪种类型?", "answer": "交通设施", "entities": ["osmway:1274707287"]}
+{"category": "S1", "input_text": "Grand Canal的行政级别是?", "answer": "副省级", "entities": ["osmway:708017319"]}
+{"category": "S3", "input_text": "Gaolan County和Nghĩa Thuận Commune哪个面积更大?", "answer": "Gaolan County", "entities": ["osmrel:2701702", "osmrel:19340145"]}
+{"category": "S3", "input_text": "Caopu Dong和斜港社区哪个面积更大?", "answer": "斜港社区", "entities": ["osmrel:19460277", "osmrel:7813317"]}
+{"category": "S1", "input_text": "金坛区应急管理局的行政级别是?", "answer": "地级市", "entities": ["osmnode:11157711336"]}
+{"category": "S2", "input_text": "图书馆属于哪种类型?", "answer": "POI", "entities": ["osmway:853561237"]}
+{"category": "S2", "input_text": "Baisha属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:9061714741"]}
+{"category": "S4", "input_text": "距离Shangluchai更近的是Qupi Monastery还是Zhaosu?", "answer": "Qupi Monastery", "entities": ["osmnode:7153038601", "osmnode:11524701969", "osmnode:244082942"]}
+{"category": "S8", "input_text": "Jingjiu Line和China Post周边哪个POI更多?", "answer": "China Post", "entities": ["osmway:906432800", "osmnode:8278446621"]}
+{"category": "S2", "input_text": "鱼你在一起属于哪种类型?", "answer": "POI", "entities": ["osmnode:12723649678"]}
+{"category": "S4", "input_text": "距离东戴河帝景海酒店更近的是Yucheng还是Qiaoqi?", "answer": "Yucheng", "entities": ["osmway:1225165265", "osmrel:13308730", "osmnode:4107040475"]}
+{"category": "S9", "input_text": "延安市新区第二中学喷泉距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:13526439015"]}
+{"category": "S1", "input_text": "孝直镇的行政级别是?", "answer": "县/区", "entities": ["osmrel:12041996"]}
+{"category": "S1", "input_text": "涝洲镇的行政级别是?", "answer": "县/区", "entities": ["osmrel:10712460"]}
+{"category": "S8", "input_text": "китайская кухня和Chongqing–Guiyang HSR周边哪个POI更多?", "answer": "китайская кухня", "entities": ["osmnode:6934865885", "osmway:1337314314"]}
+{"category": "S2", "input_text": "竹岛远眺属于哪种类型?", "answer": "POI", "entities": ["osmnode:13754558652"]}
+{"category": "S1", "input_text": "虎阜社区的行政级别是?", "answer": "村/社区", "entities": ["osmrel:7783855"]}
+{"category": "S6", "input_text": "Gemang Monastery属于哪个上级行政单位?", "answer": "Bönpo", "entities": ["osmnode:2831583935", "osmrel:16831571"]}
+{"category": "S3", "input_text": "启秀社区和伽师总场八连哪个面积更大?", "answer": "伽师总场八连", "entities": ["osmrel:19537739", "osmrel:20461454"]}
+{"category": "S4", "input_text": "距离Lake Cha更近的是Chijinxia Reservoir还是Border Myanmar - China?", "answer": "Chijinxia Reservoir", "entities": ["osmway:656817491", "osmrel:1981244", "osmway:1239642405"]}
+{"category": "S1", "input_text": "西林社区的行政级别是?", "answer": "村/社区", "entities": ["osmrel:16404844"]}
+{"category": "S1", "input_text": "Yueyahu的行政级别是?", "answer": "县/区", "entities": ["osmrel:11940723"]}
+{"category": "S5", "input_text": "海曙江北线在Jingjiu Line的哪个方向?", "answer": "南", "entities": ["osmway:1354971266", "osmway:1011269387"]}
+{"category": "S2", "input_text": "Shanghai–Kunming Railway属于哪种类型?", "answer": "交通设施", "entities": ["osmway:585307644"]}
+{"category": "S2", "input_text": "Boundary Mianyang - Suining属于哪种类型?", "answer": "行政区", "entities": ["osmway:207319498"]}
+{"category": "S2", "input_text": "Qingyan Line属于哪种类型?", "answer": "交通设施", "entities": ["osmway:1358124735"]}
+{"category": "S5", "input_text": "Qianjin在三坑坳古道营地的哪个方向?", "answer": "北", "entities": ["osmnode:12830187712", "osmnode:7257324368"]}
+{"category": "S1", "input_text": "东阳永康线的行政级别是?", "answer": "地级市", "entities": ["osmway:1028919416"]}
+{"category": "S5", "input_text": "Wenjiang在盛康平价药房的哪个方向?", "answer": "东", "entities": ["osmnode:12460925917", "osmnode:1760635318"]}
+{"category": "S1", "input_text": "Boundary Hebei - Shandong的行政级别是?", "answer": "省/直辖市", "entities": ["osmway:256893016"]}
+{"category": "S5", "input_text": "Rollerskating Training Ground在Gaolan County的哪个方向?", "answer": "东", "entities": ["osmrel:2701702", "osmway:488134668"]}
+{"category": "S1", "input_text": "Border Mongolia - China的行政级别是?", "answer": "国家", "entities": ["osmway:674696220"]}
+{"category": "S2", "input_text": "Tsachu属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:4109829722"]}
+{"category": "S3", "input_text": "Fusui County和Dulan County哪个面积更大?", "answer": "Dulan County", "entities": ["osmrel:2773866", "osmrel:4542232"]}
+{"category": "S2", "input_text": "Zhonghe属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:3874235744"]}
+{"category": "S8", "input_text": "海原县第五中学和Starbucks周边哪个POI更多?", "answer": "Starbucks", "entities": ["osmway:1132168500", "osmnode:7238456894"]}
+{"category": "S8", "input_text": "Gaojiazuocun和Ningbo No.2 Middle School周边哪个POI更多?", "answer": "Ningbo No.2 Middle School", "entities": ["osmnode:7320568770", "osmway:1164309847"]}
+{"category": "S2", "input_text": "杭州绍兴线属于哪种类型?", "answer": "行政区", "entities": ["osmway:1017349602"]}
+{"category": "S1", "input_text": "Huaihe Subdistrict的行政级别是?", "answer": "县/区", "entities": ["osmrel:10016501"]}
+{"category": "S8", "input_text": "广圩中学和Phường Hàm Rồng周边哪个POI更多?", "answer": "Phường Hàm Rồng", "entities": ["osmway:1461847192", "osmrel:12557294"]}
+{"category": "S4", "input_text": "距离Stupa更近的是East Gate还是Tong'an?", "answer": "East Gate", "entities": ["osmway:440666793", "osmnode:13110394887", "osmnode:12081599219"]}
+{"category": "S3", "input_text": "西湖花苑社区和闪庄民族社区哪个面积更大?", "answer": "西湖花苑社区", "entities": ["osmrel:9385874", "osmrel:14693856"]}
+{"category": "S2", "input_text": "新桥周记特色小吃属于哪种类型?", "answer": "POI", "entities": ["osmnode:11053843911"]}
+{"category": "S3", "input_text": "Zhangjiagang和Golmud哪个面积更大?", "answer": "Golmud", "entities": ["osmrel:4591596", "osmrel:2708757"]}
+{"category": "S8", "input_text": "Watang–Rizhao Railway和Tonggou周边哪个POI更多?", "answer": "Tonggou", "entities": ["osmway:309906185", "osmnode:6412495176"]}
+{"category": "S2", "input_text": "核桃坪村属于哪种类型?", "answer": "行政区", "entities": ["osmnode:11741360625"]}
+{"category": "S1", "input_text": "Border Karamay - Kuytun的行政级别是?", "answer": "副省级", "entities": ["osmway:204955523"]}
+{"category": "S1", "input_text": "高新天府边界的行政级别是?", "answer": "县级", "entities": ["osmway:1276158811"]}
+{"category": "S5", "input_text": "Boundary Anhui - Jiangxi在榆中县苑川中学的哪个方向?", "answer": "东", "entities": ["osmway:1081620975", "osmway:949602838"]}
+{"category": "S5", "input_text": "Zhangling Reservoir在坡上农家四合院的哪个方向?", "answer": "南", "entities": ["osmnode:8747749133", "osmway:313647959"]}
+{"category": "S5", "input_text": "新余市实验中学在Kel Suu Lake的哪个方向?", "answer": "东", "entities": ["osmnode:5789703453", "osmnode:11671500771"]}
+{"category": "S2", "input_text": "Shri Janakalyan Ma V属于哪种类型?", "answer": "POI", "entities": ["osmnode:4979250468"]}
+{"category": "S3", "input_text": "Nanhang Subdistrict和石家乡哪个面积更大?", "answer": "石家乡", "entities": ["osmrel:9406088", "osmrel:12294999"]}
+{"category": "S5", "input_text": "Yuanjiyunjiao在Nanbei的哪个方向?", "answer": "北", "entities": ["osmnode:4619484437", "osmnode:12880907900"]}
+{"category": "S1", "input_text": "哈腾高勒嘎查的行政级别是?", "answer": "乡镇/街道", "entities": ["osmnode:7027898463"]}
+{"category": "S8", "input_text": "北大街综合治理办公室和Dunhuang–Golmud Railway周边哪个POI更多?", "answer": "北大街综合治理办公室", "entities": ["osmrel:9945447", "osmway:1008723883"]}
+{"category": "S1", "input_text": "Minwang的行政级别是?", "answer": "村/社区", "entities": ["osmnode:10875462176"]}
+{"category": "S4", "input_text": "距离学苑餐厅更近的是Gaochang–Yining Expressway还是Hanting Hotel?", "answer": "Gaochang–Yining Expressway", "entities": ["osmway:1052623890", "osmway:992219029", "osmnode:13176197101"]}
+{"category": "S5", "input_text": "Weng'an–Machangping railway在Safe haven的哪个方向?", "answer": "东", "entities": ["osmnode:3957167449", "osmway:1374182906"]}
+{"category": "S1", "input_text": "左贡县-芒康县边界的行政级别是?", "answer": "地级市", "entities": ["osmway:865035379"]}
+{"category": "S3", "input_text": "Cheng'an County和Acheng District哪个面积更大?", "answer": "Acheng District", "entities": ["osmrel:5674419", "osmrel:2755756"]}
+{"category": "S1", "input_text": "Wansong的行政级别是?", "answer": "县/区", "entities": ["osmrel:3117574"]}
+{"category": "S1", "input_text": "引凤街道的行政级别是?", "answer": "县/区", "entities": ["osmrel:14273834"]}
+{"category": "S2", "input_text": "Yalu River属于哪种类型?", "answer": "行政区", "entities": ["osmway:141662063"]}
+{"category": "S2", "input_text": "中心医院疗养公园属于哪种类型?", "answer": "POI", "entities": ["osmway:880833909"]}
+{"category": "S2", "input_text": "周群社区属于哪种类型?", "answer": "行政区", "entities": ["osmrel:14178054"]}
+{"category": "S4", "input_text": "距离Huaniu更近的是Haizi还是华莱士?", "answer": "Haizi", "entities": ["osmrel:6791211", "osmnode:5487033157", "osmnode:13119496329"]}
+{"category": "S5", "input_text": "黄泥河中学在Shawen的哪个方向?", "answer": "东", "entities": ["osmnode:5604543645", "osmway:1311769165"]}
+{"category": "S3", "input_text": "张家边社区和钱长村哪个面积更大?", "answer": "张家边社区", "entities": ["osmrel:14128223", "osmrel:13119309"]}
+{"category": "S1", "input_text": "Zhen'an District的行政级别是?", "answer": "地级市", "entities": ["osmrel:5677167"]}
+{"category": "S3", "input_text": "西洞庭管理区和Narphu哪个面积更大?", "answer": "Narphu", "entities": ["osmrel:17780794", "osmrel:10516303"]}
+{"category": "S2", "input_text": "Gêrru属于哪种类型?", "answer": "行政区", "entities": ["osmrel:4052322"]}
+{"category": "S1", "input_text": "别桥竹箦界的行政级别是?", "answer": "县/区", "entities": ["osmway:784822729"]}
+{"category": "S8", "input_text": "Nanning-Kunming Railway和Khánh Xuân -周边哪个POI更多?", "answer": "Khánh Xuân -", "entities": ["osmway:390878615", "osmway:1367652313"]}
+{"category": "S1", "input_text": "Song Giáp的行政级别是?", "answer": "县/区", "entities": ["osmway:1356920237"]}
+{"category": "S1", "input_text": "Tiên Yên - Bình Liêu的行政级别是?", "answer": "地级市", "entities": ["osmway:1422248240"]}
+{"category": "S9", "input_text": "馨岚社区距离海岸线远还是近?", "answer": "远", "entities": ["osmrel:20352518"]}
+{"category": "S8", "input_text": "Beijing–Guangzhou Railway和Маша周边哪个POI更多?", "answer": "Маша", "entities": ["osmway:45721964", "osmnode:11357284420"]}
+{"category": "S3", "input_text": "西桥镇和张地营子乡哪个面积更大?", "answer": "张地营子乡", "entities": ["osmrel:10550207", "osmrel:10686341"]}
+{"category": "S2", "input_text": "巴朗曲康属于哪种类型?", "answer": "POI", "entities": ["osmnode:13096388553"]}
+{"category": "S5", "input_text": "Liwan Gymnasium在Dungja La的哪个方向?", "answer": "东", "entities": ["osmnode:6643121348", "osmway:246906205"]}
+{"category": "S4", "input_text": "距离Haihong更近的是安平希望小学还是海北州第一人民医院?", "answer": "安平希望小学", "entities": ["osmnode:8474013909", "osmway:1117754488", "osmway:1043127831"]}
+{"category": "S4", "input_text": "距离学院路街道更近的是Zangxoi还是Dongcheng Hotel?", "answer": "Dongcheng Hotel", "entities": ["osmrel:19324894", "osmnode:12833111016", "osmnode:9767922649"]}
+{"category": "S1", "input_text": "Border Nyingchi - Chamdo的行政级别是?", "answer": "副省级", "entities": ["osmway:907157131"]}
+{"category": "S2", "input_text": "Starbucks属于哪种类型?", "answer": "POI", "entities": ["osmnode:10910679022"]}
+{"category": "S9", "input_text": "十美堂镇距离海岸线远还是近?", "answer": "远", "entities": ["osmrel:17780786"]}
+{"category": "S1", "input_text": "永丰-江汉二桥的行政级别是?", "answer": "县/区", "entities": ["osmway:236078580"]}
+{"category": "S9", "input_text": "燕窝塔社区距离海岸线远还是近?", "answer": "远", "entities": ["osmrel:13067957"]}
+{"category": "S8", "input_text": "莲花生大师修行洞和Ruixi周边哪个POI更多?", "answer": "莲花生大师修行洞", "entities": ["osmnode:12241714063", "osmnode:2886829252"]}
+{"category": "S1", "input_text": "Tiên Lãng - Hải Lạng的行政级别是?", "answer": "县/区", "entities": ["osmway:1372616544"]}
+{"category": "S1", "input_text": "East Zhongshan Road的行政级别是?", "answer": "地级市", "entities": ["osmway:1161023794"]}
+{"category": "S9", "input_text": "大佛寺距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:11388880736"]}
+{"category": "S3", "input_text": "Jingu和Liyanglu Subdistrict哪个面积更大?", "answer": "Jingu", "entities": ["osmrel:11363422", "osmrel:9949451"]}
+{"category": "S4", "input_text": "距离Beijing–Guangzhou Railway更近的是Nelung township还是Guotaiqiao?", "answer": "Guotaiqiao", "entities": ["osmway:896078888", "osmrel:12339460", "osmnode:4935553822"]}
+{"category": "S1", "input_text": "朝霞居民委员会的行政级别是?", "answer": "村/社区", "entities": ["osmrel:17017531"]}
+{"category": "S2", "input_text": "Baidoi属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:13074408452"]}
+{"category": "S9", "input_text": "Zhenping距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:3029147602"]}
+{"category": "S1", "input_text": "Zhandong Subdistrict的行政级别是?", "answer": "县/区", "entities": ["osmrel:7946276"]}
+{"category": "S2", "input_text": "Liuba County属于哪种类型?", "answer": "行政区", "entities": ["osmrel:2967709"]}
+{"category": "S1", "input_text": "Boundary Alxa - Bayannur的行政级别是?", "answer": "地级市", "entities": ["osmway:753688310"]}
+{"category": "S3", "input_text": "艾溪湖管理处和硕放街道哪个面积更大?", "answer": "硕放街道", "entities": ["osmrel:4677063", "osmrel:17000188"]}
+{"category": "S8", "input_text": "Kunming–Hekou railway和青岛涵碧楼酒店周边哪个POI更多?", "answer": "青岛涵碧楼酒店", "entities": ["osmway:1474385339", "osmway:737469430"]}
+{"category": "S1", "input_text": "新星市与伊州区边界的行政级别是?", "answer": "地级市", "entities": ["osmway:904221666"]}
+{"category": "S3", "input_text": "棠梅社区和香域尚城社区哪个面积更大?", "answer": "棠梅社区", "entities": ["osmrel:12262438", "osmrel:6695091"]}
+{"category": "S1", "input_text": "Border Nyingchi - Shannan的行政级别是?", "answer": "副省级", "entities": ["osmway:1011875295"]}
+{"category": "S1", "input_text": "于城镇的行政级别是?", "answer": "县/区", "entities": ["osmrel:19101241"]}
+{"category": "S6", "input_text": "星星充电属于哪个上级行政单位?", "answer": "兵团七十三团", "entities": ["osmnode:12001826888", "osmrel:20132303"]}
+{"category": "S2", "input_text": "Yangjiazhuang属于哪种类型?", "answer": "行政区", "entities": ["osmrel:7671017"]}
+{"category": "S1", "input_text": "Fu County的行政级别是?", "answer": "地级市", "entities": ["osmrel:3019990"]}
+{"category": "S8", "input_text": "Stone pagoda forest和Dali–Lincang Railway周边哪个POI更多?", "answer": "Stone pagoda forest", "entities": ["osmnode:13015564802", "osmway:891498081"]}
+{"category": "S8", "input_text": "Bus Station和Xincheng Subdistrict周边哪个POI更多?", "answer": "Bus Station", "entities": ["osmnode:4432072891", "osmrel:10050403"]}
+{"category": "S8", "input_text": "Boundary Nanning - Chongzuo和Ivy Nursing Home周边哪个POI更多?", "answer": "Ivy Nursing Home", "entities": ["osmway:1285668266", "osmway:907945375"]}
+{"category": "S5", "input_text": "海枯石烂在Shanghai–Kunming Railway的哪个方向?", "answer": "南", "entities": ["osmway:956945522", "osmnode:10588695793"]}
+{"category": "S1", "input_text": "Karakax River的行政级别是?", "answer": "地级市", "entities": ["osmway:877371296"]}
+{"category": "S6", "input_text": "Kuytun–Beitun Railway属于哪个上级行政单位?", "answer": "Xazgat Township", "entities": ["osmway:194092685", "osmrel:9446214"]}
+{"category": "S2", "input_text": "Xinxi属于哪种类型?", "answer": "行政区", "entities": ["osmrel:8014271"]}
+{"category": "S8", "input_text": "畲乡里民宿度假区和Border Beijing - Hebei周边哪个POI更多?", "answer": "畲乡里民宿度假区", "entities": ["osmway:1250831495", "osmway:1474443737"]}
+{"category": "S2", "input_text": "瑞光书院属于哪种类型?", "answer": "POI", "entities": ["osmnode:3112231418"]}
+{"category": "S2", "input_text": "南江大药房属于哪种类型?", "answer": "POI", "entities": ["osmnode:3591338042"]}
+{"category": "S4", "input_text": "距离Lhasa–Nyingchi Railway更近的是Maixi还是庐星宿?", "answer": "Maixi", "entities": ["osmway:1213209264", "osmnode:3029050873", "osmnode:10902036500"]}
+{"category": "S3", "input_text": "美林镇和Qiling哪个面积更大?", "answer": "美林镇", "entities": ["osmrel:10550210", "osmrel:10040530"]}
+{"category": "S1", "input_text": "Boundary Tongliao - Chifeng的行政级别是?", "answer": "副省级", "entities": ["osmway:907962376"]}
+{"category": "S2", "input_text": "Baoshan属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:2183021000"]}
+{"category": "S4", "input_text": "距离Sichuan–Tibet Railway更近的是Rawang Co还是Jinwutaizi?", "answer": "Rawang Co", "entities": ["osmway:1228860761", "osmway:278450453", "osmnode:2276407590"]}
+{"category": "S4", "input_text": "距离Binggu更近的是Zhongdashigou还是Guangtong-Dali Line?", "answer": "Zhongdashigou", "entities": ["osmnode:3794847649", "osmnode:11338304331", "osmway:618472361"]}
+{"category": "S2", "input_text": "Jingyihuo Railway属于哪种类型?", "answer": "交通设施", "entities": ["osmway:634149738"]}
+{"category": "S5", "input_text": "万发镇在Zimeihu Scenic Area的哪个方向?", "answer": "东", "entities": ["osmway:1000080527", "osmrel:10790922"]}
+{"category": "S1", "input_text": "沙林呼都格嘎查的行政级别是?", "answer": "乡镇/街道", "entities": ["osmnode:7025795604"]}
+{"category": "S6", "input_text": "Harbin-Manchuria Railway属于哪个上级行政单位?", "answer": "查巴奇乡", "entities": ["osmway:1284872844", "osmrel:10594698"]}
+{"category": "S8", "input_text": "大林镇和定远第二中学周边哪个POI更多?", "answer": "定远第二中学", "entities": ["osmrel:10560805", "osmway:258500403"]}
+{"category": "S5", "input_text": "Tangshan-Hohhot Railway在Shanghai–Kunming Railway的哪个方向?", "answer": "北", "entities": ["osmway:323104540", "osmway:541831778"]}
+{"category": "S1", "input_text": "连天村的行政级别是?", "answer": "村/社区", "entities": ["osmnode:11736285288"]}
+{"category": "S5", "input_text": "Raizhigang在文昌街道办事处的哪个方向?", "answer": "西", "entities": ["osmnode:9537102150", "osmnode:4069673570"]}
+{"category": "S9", "input_text": "Milan距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:3924378382"]}
+{"category": "S4", "input_text": "距离Songzhan更近的是Weng'an–Machangping railway还是Weirong High-Speed Line?", "answer": "Weirong High-Speed Line", "entities": ["osmnode:6331568968", "osmway:1374157611", "osmway:1364674040"]}
+{"category": "S8", "input_text": "Qingzang railway和班姐早餐店周边哪个POI更多?", "answer": "班姐早餐店", "entities": ["osmway:251427358", "osmnode:11905594296"]}
+{"category": "S1", "input_text": "草市街西御河边界的行政级别是?", "answer": "县/区", "entities": ["osmway:806445299"]}
+{"category": "S8", "input_text": "入迷咖啡和Xiamen - Quanzhou Boundary周边哪个POI更多?", "answer": "入迷咖啡", "entities": ["osmnode:10669150405", "osmway:878236254"]}
+{"category": "S1", "input_text": "Boundary Henan - Hubei的行政级别是?", "answer": "省/直辖市", "entities": ["osmway:237968642"]}
+{"category": "S2", "input_text": "Mengzi–Baoxiu railway属于哪种类型?", "answer": "交通设施", "entities": ["osmway:1475259567"]}
+{"category": "S2", "input_text": "麦积区综合社会福利院属于哪种类型?", "answer": "POI", "entities": ["osmway:1494899132"]}
+{"category": "S4", "input_text": "距离念长歌舍更近的是万丁塔寺还是Jingjiu Line?", "answer": "万丁塔寺", "entities": ["osmnode:2997551806", "osmway:1342722250", "osmway:45167716"]}
+{"category": "S6", "input_text": "Dayucun属于哪个上级行政单位?", "answer": "Hongwansi", "entities": ["osmnode:9249616220", "osmrel:11856781"]}
+{"category": "S4", "input_text": "距离Manlie更近的是Ganq Mod还是CoCo Fresh Tea & Juice?", "answer": "CoCo Fresh Tea & Juice", "entities": ["osmnode:6899501888", "osmnode:4072951314", "osmnode:13068241855"]}
+{"category": "S3", "input_text": "福龙社区和政平村哪个面积更大?", "answer": "福龙社区", "entities": ["osmrel:17873495", "osmrel:19078904"]}
+{"category": "S2", "input_text": "Jiangkou属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:4820399841"]}
+{"category": "S2", "input_text": "Jingha Line属于哪种类型?", "answer": "交通设施", "entities": ["osmway:907632277"]}
+{"category": "S2", "input_text": "Rolmoteng _Tsang-Ngo属于哪种类型?", "answer": "行政区", "entities": ["osmrel:12093242"]}
+{"category": "S3", "input_text": "Huangshizhai Forestry Station和Tianbao哪个面积更大?", "answer": "Tianbao", "entities": ["osmrel:10085246", "osmrel:9379201"]}
+{"category": "S5", "input_text": "Xiaojiayaotou在Hanji Line的哪个方向?", "answer": "北", "entities": ["osmway:1115297034", "osmnode:8493269846"]}
+{"category": "S4", "input_text": "距离Qingyan Line更近的是Nanxin还是奉化区大桥基督教堂?", "answer": "奉化区大桥基督教堂", "entities": ["osmway:624596411", "osmnode:13447007818", "osmway:1462637516"]}
+{"category": "S1", "input_text": "象山社区的行政级别是?", "answer": "村/社区", "entities": ["osmrel:5986194"]}
+{"category": "S1", "input_text": "王宅社区的行政级别是?", "answer": "村/社区", "entities": ["osmway:1285844516"]}
+{"category": "S4", "input_text": "距离Aksay更近的是Fuhuan还是康利居民委员会?", "answer": "Fuhuan", "entities": ["osmnode:244075596", "osmrel:20588074", "osmrel:17017521"]}
+{"category": "S4", "input_text": "距离Suidong Highway更近的是群福社区还是Pa Vây Sử - Tung Qua Lìn?", "answer": "群福社区", "entities": ["osmway:1263381939", "osmnode:12628371281", "osmway:717604254"]}
+{"category": "S4", "input_text": "距离瑞岩寺更近的是滨海城市展览馆还是Qingzang railway?", "answer": "滨海城市展览馆", "entities": ["osmnode:13316938945", "osmway:555196068", "osmway:229693646"]}
+{"category": "S4", "input_text": "距离Postal Savings Bank of China更近的是Tôhai Gaqaa还是Xiangfan–Chongqing railway?", "answer": "Tôhai Gaqaa", "entities": ["osmnode:13436821352", "osmnode:8451903641", "osmway:280238431"]}
+{"category": "S8", "input_text": "Border Tongren - Zunyi和特克斯县客运站周边哪个POI更多?", "answer": "特克斯县客运站", "entities": ["osmway:592382282", "osmway:1313519639"]}
+{"category": "S1", "input_text": "崖渠-独山的行政级别是?", "answer": "村/社区", "entities": ["osmway:1465004309"]}
+{"category": "S9", "input_text": "Viengneua距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:703203833"]}
+{"category": "S1", "input_text": "白道子村的行政级别是?", "answer": "村/社区", "entities": ["osmrel:20364345"]}
+{"category": "S1", "input_text": "机投桥簇桥边界的行政级别是?", "answer": "县/区", "entities": ["osmway:1306850347"]}
+{"category": "S4", "input_text": "距离Border Tongren - Zunyi更近的是Xulan High-Speed Line还是Boundary Fusui - Ningming?", "answer": "Boundary Fusui - Ningming", "entities": ["osmway:206709704", "osmway:290488029", "osmway:206385007"]}
+{"category": "S1", "input_text": "升平镇的行政级别是?", "answer": "县/区", "entities": ["osmrel:10711535"]}
+{"category": "S3", "input_text": "Phường Phan Si Păng和新祺周管理处哪个面积更大?", "answer": "新祺周管理处", "entities": ["osmrel:12557293", "osmrel:14299972"]}
+{"category": "S5", "input_text": "Bayan Tôhôi在Border Tajikistan - Afganistan的哪个方向?", "answer": "东", "entities": ["osmway:201795293", "osmnode:8333158275"]}
+{"category": "S2", "input_text": "Nanjiang Line属于哪种类型?", "answer": "交通设施", "entities": ["osmway:330869123"]}
+{"category": "S1", "input_text": "赣粵界的行政级别是?", "answer": "省/直辖市", "entities": ["osmway:933125909"]}
+{"category": "S6", "input_text": "Guangshen Line属于哪个上级行政单位?", "answer": "Dongxiao Sub-district", "entities": ["osmway:1487593140", "osmrel:9281664"]}
+{"category": "S5", "input_text": "Zhangshinaocun在Nanning-Guangzhou Railway的哪个方向?", "answer": "北", "entities": ["osmway:759600366", "osmnode:8620065972"]}
+{"category": "S4", "input_text": "距离莲池公园更近的是望月湖街道还是Boundary Guigang - Yulin?", "answer": "望月湖街道", "entities": ["osmway:1040424803", "osmrel:15700189", "osmway:850518091"]}
+{"category": "S5", "input_text": "Dongwanzicun在Beijing–Guangzhou Railway的哪个方向?", "answer": "北", "entities": ["osmway:1331517845", "osmnode:8354091037"]}
+{"category": "S1", "input_text": "孔城镇的行政级别是?", "answer": "县/区", "entities": ["osmrel:12759098"]}
+{"category": "S5", "input_text": "汇友商务大酒店在Jannu viewpoint的哪个方向?", "answer": "东", "entities": ["osmnode:5287633389", "osmnode:5409353834"]}
+{"category": "S4", "input_text": "距离狮子山街道办事处更近的是第五街道还是Crowne Plaza?", "answer": "Crowne Plaza", "entities": ["osmnode:2398309609", "osmrel:10587393", "osmway:1002203064"]}
+{"category": "S2", "input_text": "Lianhuo Expressway属于哪种类型?", "answer": "交通设施", "entities": ["osmway:316001100"]}
+{"category": "S3", "input_text": "Changchun City和Bayannur City哪个面积更大?", "answer": "Bayannur City", "entities": ["osmrel:2763992", "osmrel:2752813"]}
+{"category": "S8", "input_text": "Bayan Gôl Gaqaa和Heping Dafeng Scenic area周边哪个POI更多?", "answer": "Heping Dafeng Scenic area", "entities": ["osmnode:8448042816", "osmnode:5121349822"]}
+{"category": "S1", "input_text": "Xiluo Town的行政级别是?", "answer": "县/区", "entities": ["osmrel:20018448"]}
+{"category": "S3", "input_text": "Bigu-03和Narphu-04哪个面积更大?", "answer": "Narphu-04", "entities": ["osmrel:6743643", "osmrel:16079473"]}
+{"category": "S9", "input_text": "安庆市德宽路第二小学距离海岸线远还是近?", "answer": "远", "entities": ["osmway:1064538589"]}
+{"category": "S5", "input_text": "Shanghai–Kunming Railway在韶西逸夫小学的哪个方向?", "answer": "西", "entities": ["osmnode:6183807077", "osmway:1311432694"]}
+{"category": "S1", "input_text": "新昌嵊州线的行政级别是?", "answer": "地级市", "entities": ["osmway:1017290535"]}
+{"category": "S1", "input_text": "太阳庙农场的行政级别是?", "answer": "县/区", "entities": ["osmrel:10339622"]}
+{"category": "S9", "input_text": "Zhaigeta距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:5217525256"]}
+{"category": "S1", "input_text": "周岸村村委会的行政级别是?", "answer": "村/社区", "entities": ["osmnode:8979768564"]}
+{"category": "S9", "input_text": "Border Ürümqi - Wujiaqu距离海岸线远还是近?", "answer": "远", "entities": ["osmway:653507776"]}
+{"category": "S8", "input_text": "朋来活鱼老店和厚德9周边哪个POI更多?", "answer": "厚德9", "entities": ["osmnode:11461789244", "osmnode:4804842710"]}
+{"category": "S9", "input_text": "Beiping距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:1681109138"]}
+{"category": "S5", "input_text": "庆春路四六号自行车租赁点在Qiushi Noodles的哪个方向?", "answer": "南", "entities": ["osmnode:5543327621", "osmnode:3610056537"]}
+{"category": "S2", "input_text": "姚圈村属于哪种类型?", "answer": "行政区", "entities": ["osmrel:20509929"]}
+{"category": "S8", "input_text": "Bank of China和Gaotaizi Subdistrict周边哪个POI更多?", "answer": "Bank of China", "entities": ["osmnode:12961219074", "osmrel:9646859"]}
+{"category": "S5", "input_text": "滕州新科职业高中在Boundary Sichuan - Chongqing的哪个方向?", "answer": "东", "entities": ["osmway:772664343", "osmway:1041895684"]}
+{"category": "S4", "input_text": "距离Boundary Harbin - Suihua更近的是Longjiang Bank (Anxin Branch)还是周恩来旧居?", "answer": "Longjiang Bank (Anxin Branch)", "entities": ["osmway:772469044", "osmnode:10243789888", "osmnode:13076918714"]}
+{"category": "S1", "input_text": "Beilinlu Subdistrict的行政级别是?", "answer": "县/区", "entities": ["osmrel:10074938"]}
+{"category": "S1", "input_text": "Boundary Dongcheng - Fengtai的行政级别是?", "answer": "地级市", "entities": ["osmway:59234213"]}
+{"category": "S5", "input_text": "Shanghai-Chengdu Line在Tabi的哪个方向?", "answer": "东", "entities": ["osmrel:12093236", "osmway:1142119698"]}
+{"category": "S6", "input_text": "Nanjian-Ning'er Expressway属于哪个上级行政单位?", "answer": "Ejia", "entities": ["osmway:905367349", "osmrel:10361747"]}
+{"category": "S2", "input_text": "Jingxin Expressway属于哪种类型?", "answer": "交通设施", "entities": ["osmway:264006297"]}
+{"category": "S1", "input_text": "Lianshui County的行政级别是?", "answer": "地级市", "entities": ["osmrel:3492115"]}
+{"category": "S3", "input_text": "金寨南路社区和坛丘村哪个面积更大?", "answer": "坛丘村", "entities": ["osmrel:17017573", "osmrel:10227547"]}
+{"category": "S3", "input_text": "一统碑村和泉景社区哪个面积更大?", "answer": "一统碑村", "entities": ["osmrel:10892914", "osmrel:13668094"]}
+{"category": "S8", "input_text": "万纳里寺和土地庙街魏家井周边哪个POI更多?", "answer": "土地庙街魏家井", "entities": ["osmway:1343521363", "osmnode:12809241284"]}
+{"category": "S1", "input_text": "徐家店镇的行政级别是?", "answer": "县/区", "entities": ["osmrel:14039391"]}
+{"category": "S2", "input_text": "Boundary Bayannur - Ordos属于哪种类型?", "answer": "行政区", "entities": ["osmway:205061423"]}
+{"category": "S1", "input_text": "Nantong的行政级别是?", "answer": "县/区", "entities": ["osmrel:20591939"]}
+{"category": "S6", "input_text": "Boundary Liaoning - Jilin属于哪个上级行政单位?", "answer": "Yalu River", "entities": ["osmway:1256777170", "osmway:368446647"]}
+{"category": "S3", "input_text": "Barhabise-02和香坊实验农场地区哪个面积更大?", "answer": "Barhabise-02", "entities": ["osmrel:16115949", "osmrel:9430872"]}
+{"category": "S4", "input_text": "距离Gaocun更近的是云溪乡初中还是Ji Xian?", "answer": "Ji Xian", "entities": ["osmnode:1738889424", "osmnode:5526574336", "osmnode:244080929"]}
+{"category": "S4", "input_text": "距离Changmu更近的是Yanling Reservoir还是Guoxingzhuang?", "answer": "Guoxingzhuang", "entities": ["osmnode:3303673928", "osmway:613220851", "osmnode:5285340193"]}
+{"category": "S1", "input_text": "Border Panjin - Yingkou的行政级别是?", "answer": "副省级", "entities": ["osmway:696556652"]}
+{"category": "S1", "input_text": "高塘岛乡的行政级别是?", "answer": "县/区", "entities": ["osmrel:18186733"]}
+{"category": "S5", "input_text": "大门镇中心卫生院在三胜村的哪个方向?", "answer": "南", "entities": ["osmrel:10809698", "osmnode:13607427246"]}
+{"category": "S2", "input_text": "Changjie属于哪种类型?", "answer": "行政区", "entities": ["osmrel:17902567"]}
+{"category": "S6", "input_text": "Зоопарк属于哪个上级行政单位?", "answer": "通江街道", "entities": ["osmnode:12833168705", "osmrel:10784831"]}
+{"category": "S4", "input_text": "距离Yutang Subdistrict更近的是Shitai还是Shanghai-Chengdu Line?", "answer": "Shanghai-Chengdu Line", "entities": ["osmrel:10776776", "osmnode:8428797880", "osmway:527673523"]}
+{"category": "S1", "input_text": "江湾溪头边界的行政级别是?", "answer": "县/区", "entities": ["osmway:655171782"]}
+{"category": "S4", "input_text": "距离Boundary Sichuan - Chongqing更近的是Guibei Expressway还是Lianhuo Expressway?", "answer": "Guibei Expressway", "entities": ["osmway:836674682", "osmway:1126177962", "osmway:146801071"]}
+{"category": "S1", "input_text": "Boundary Qiqihar - Daqing的行政级别是?", "answer": "副省级", "entities": ["osmway:205222217"]}
+{"category": "S3", "input_text": "岗北社区和南环第二社区哪个面积更大?", "answer": "岗北社区", "entities": ["osmrel:17017624", "osmrel:7772496"]}
+{"category": "S1", "input_text": "Ouning Subdistrict的行政级别是?", "answer": "县/区", "entities": ["osmrel:12040104"]}
+{"category": "S3", "input_text": "Wuxuan County和Taksing Circle哪个面积更大?", "answer": "Wuxuan County", "entities": ["osmrel:2775861", "osmrel:10062449"]}
+{"category": "S9", "input_text": "Qugcang距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:12464883959"]}
+{"category": "S2", "input_text": "湘乡银丝米粉馆属于哪种类型?", "answer": "POI", "entities": ["osmnode:13100028761"]}
+{"category": "S2", "input_text": "Boundary Leshan - Liangshan属于哪种类型?", "answer": "行政区", "entities": ["osmway:207226503"]}
+{"category": "S2", "input_text": "Duanjia属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:13376873486"]}
+{"category": "S9", "input_text": "Hoboksar Town距离海岸线远还是近?", "answer": "远", "entities": ["osmrel:9446203"]}
+{"category": "S8", "input_text": "乐安镇和Ang'angxi周边哪个POI更多?", "answer": "Ang'angxi", "entities": ["osmrel:18246486", "osmnode:244084014"]}
+{"category": "S3", "input_text": "Xidajie Subdistrict和赵镇街道哪个面积更大?", "answer": "赵镇街道", "entities": ["osmrel:10068057", "osmrel:19225652"]}
+{"category": "S4", "input_text": "距离喜泉-黑石更近的是Jiaozuo–Liuzhou Line还是Haoji Railway?", "answer": "Haoji Railway", "entities": ["osmway:1472896873", "osmway:595309444", "osmway:1326113679"]}
+{"category": "S1", "input_text": "温州台州线的行政级别是?", "answer": "副省级", "entities": ["osmway:1022302386"]}
+{"category": "S3", "input_text": "桂林村和泾苑社区哪个面积更大?", "answer": "桂林村", "entities": ["osmrel:10809703", "osmrel:8553281"]}
+{"category": "S3", "input_text": "Xincheng County和Hunjiang District哪个面积更大?", "answer": "Xincheng County", "entities": ["osmrel:2775863", "osmrel:2762621"]}
+{"category": "S8", "input_text": "Jingtang Intercity Line和同江市第四小学周边哪个POI更多?", "answer": "同江市第四小学", "entities": ["osmway:1463968585", "osmway:939334976"]}
+{"category": "S1", "input_text": "Boundary Dali - Baoshan的行政级别是?", "answer": "副省级", "entities": ["osmway:1305281209"]}
+{"category": "S8", "input_text": "百姓饭庄和小海子镇周边哪个POI更多?", "answer": "百姓饭庄", "entities": ["osmnode:4730256031", "osmrel:10473580"]}
+{"category": "S3", "input_text": "文笔塔社区和东嘎社区哪个面积更大?", "answer": "东嘎社区", "entities": ["osmrel:16230528", "osmrel:20066671"]}
+{"category": "S1", "input_text": "Boundary Yufeng - Luzhai的行政级别是?", "answer": "地级市", "entities": ["osmway:206421439"]}
+{"category": "S3", "input_text": "川岛镇和Tutang哪个面积更大?", "answer": "川岛镇", "entities": ["osmrel:19261617", "osmrel:5836980"]}
+{"category": "S3", "input_text": "Wanyuan City和Yanshi District哪个面积更大?", "answer": "Wanyuan City", "entities": ["osmrel:2787739", "osmrel:3246488"]}
+{"category": "S4", "input_text": "距离Boundary Jiangxi - Fujian更近的是Hanling还是Bûlang Gaqaa?", "answer": "Hanling", "entities": ["osmway:561799877", "osmnode:6277681372", "osmnode:8366345281"]}
+{"category": "S2", "input_text": "ပန်ဝါ ကားဆီ属于哪种类型?", "answer": "POI", "entities": ["osmnode:7283931793"]}
+{"category": "S1", "input_text": "斗姆湖街道的行政级别是?", "answer": "县/区", "entities": ["osmrel:17780790"]}
+{"category": "S6", "input_text": "Qijiadian Reservoir属于哪个上级行政单位?", "answer": "四坝村", "entities": ["osmway:394564714", "osmway:257629652"]}
+{"category": "S4", "input_text": "距离Daxun Connecting Line更近的是弄唠加油站还是Baota Subdistrict?", "answer": "Baota Subdistrict", "entities": ["osmway:294015970", "osmway:1233810856", "osmrel:7405637"]}
+{"category": "S1", "input_text": "龙眠街道的行政级别是?", "answer": "县/区", "entities": ["osmrel:12759097"]}
+{"category": "S5", "input_text": "Boundary Guangxi - Guizhou在辽阳市第二高级中学的哪个方向?", "answer": "西", "entities": ["osmway:796533777", "osmway:206885435"]}
+{"category": "S4", "input_text": "距离流坑中心小学更近的是Xã Quang Hán还是Gaqaa Cun?", "answer": "Xã Quang Hán", "entities": ["osmway:1297733193", "osmrel:19417467", "osmnode:8392792375"]}
+{"category": "S1", "input_text": "Boundary Henan - Shanxi的行政级别是?", "answer": "省/直辖市", "entities": ["osmway:240029456"]}
+{"category": "S4", "input_text": "距离Siping-Qiqihar railway更近的是Dadong还是Xifengshan?", "answer": "Xifengshan", "entities": ["osmway:1285074256", "osmrel:4189928", "osmnode:2179637716"]}
+{"category": "S5", "input_text": "Boundary Chaoyang - Huludao在任弼时旧居的哪个方向?", "answer": "东", "entities": ["osmnode:13073643317", "osmway:691737921"]}
+{"category": "S5", "input_text": "Qingzang railway在Chizhou的哪个方向?", "answer": "西", "entities": ["osmrel:3164669", "osmway:997423522"]}
+{"category": "S2", "input_text": "培诺教育(青岛校区)属于哪种类型?", "answer": "POI", "entities": ["osmway:1444448278"]}
+{"category": "S1", "input_text": "南宾街道的行政级别是?", "answer": "县/区", "entities": ["osmrel:12295026"]}
+{"category": "S5", "input_text": "杨氏宗祠在遇见繁花的哪个方向?", "answer": "东", "entities": ["osmnode:12944661001", "osmnode:13075815834"]}
+{"category": "S3", "input_text": "荣玛乡和清河街道哪个面积更大?", "answer": "荣玛乡", "entities": ["osmrel:12312296", "osmrel:18250343"]}
+{"category": "S2", "input_text": "Xiangfan–Chongqing railway属于哪种类型?", "answer": "交通设施", "entities": ["osmway:342254850"]}
+{"category": "S2", "input_text": "Qianbu属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:13421771186"]}
+{"category": "S9", "input_text": "Fuyang距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:3486394327"]}
+{"category": "S9", "input_text": "与你同行商务酒店距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:1937175109"]}
+{"category": "S2", "input_text": "Dongdong属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:2115334361"]}
+{"category": "S9", "input_text": "Zhongxing距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:3259241965"]}
+{"category": "S2", "input_text": "Yingchun属于哪种类型?", "answer": "自然地物", "entities": ["osmnode:4264037944"]}
+{"category": "S1", "input_text": "宁波舟山线的行政级别是?", "answer": "副省级", "entities": ["osmway:1011438923"]}
+{"category": "S3", "input_text": "Guigang和Border Chengdu - Meishan哪个面积更大?", "answer": "Guigang", "entities": ["osmrel:2776275", "osmway:1212177398"]}
+{"category": "S8", "input_text": "金坛区审计局和曹氏鸭脖(万达广场店)周边哪个POI更多?", "answer": "曹氏鸭脖(万达广场店)", "entities": ["osmnode:11157711340", "osmnode:11941403183"]}
+{"category": "S3", "input_text": "Balefi-03和良种场村哪个面积更大?", "answer": "Balefi-03", "entities": ["osmrel:16116173", "osmrel:20387578"]}
+{"category": "S2", "input_text": "Shanghai-Chengdu Line属于哪种类型?", "answer": "交通设施", "entities": ["osmway:511602547"]}
+{"category": "S2", "input_text": "Border Bijie - Guiyang属于哪种类型?", "answer": "行政区", "entities": ["osmway:207074078"]}
+{"category": "S6", "input_text": "Sandaoliangzi属于哪个上级行政单位?", "answer": "亮兵镇 량병진", "entities": ["osmnode:10804691643", "osmrel:17044752"]}
+{"category": "S5", "input_text": "Lianhuo Expressway在P20的哪个方向?", "answer": "西", "entities": ["osmnode:9655297794", "osmway:316001119"]}
+{"category": "S9", "input_text": "Danangou距离海岸线远还是近?", "answer": "远", "entities": ["osmnode:6120782396"]}
+{"category": "S5", "input_text": "Hexi在Bibei Town的哪个方向?", "answer": "北", "entities": ["osmrel:19860795", "osmnode:6313664727"]}
+{"category": "S1", "input_text": "Border Bayingolin - Changji的行政级别是?", "answer": "副省级", "entities": ["osmway:669283185"]}
+{"category": "S1", "input_text": "Boundary Chaoyang - Huludao的行政级别是?", "answer": "副省级", "entities": ["osmway:691458480"]}

@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genanchor"
+version = "0.1.0"
+description = "GeoAnchor geospatial knowledge injection model and benchmark tools"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+dependencies = [
+  "numpy>=1.24",
+  "pandas>=2.0",
+  "pyarrow>=12.0",
+  "scipy>=1.10",
+  "safetensors>=0.4",
+  "torch>=2.1",
+  "transformers>=4.51",
+  "peft>=0.14",
+  "accelerate>=0.30",
+  "zstandard>=0.23",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

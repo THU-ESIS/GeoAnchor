@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.log
+outputs/
+runs/
+wandb/
+data/source/osm_rdf/triples.tsv
+data/source/osm_rdf/triples_train.tsv
+data/source/osm_rdf/triples_base.tsv
+models/geoanchor_qwen3_4b/entity_embeddings.pt
